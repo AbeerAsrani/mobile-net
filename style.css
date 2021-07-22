@@ -1,0 +1,46 @@
+body
+{
+  background-image: url("background..jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+h3{
+  color: aliceblue;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+p{
+  color: snow;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.copy_right_footer{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  border: 3px solid #73AD21;
+  background-color: gray;
+}
+.heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+ 
